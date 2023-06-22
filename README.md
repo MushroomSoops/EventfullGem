@@ -3,7 +3,7 @@
 - Im just learning sone things
 - Mainly python, just whatever I feel like
 - just trying to keep a good schedule
-
+Soup :)
 ![Mushroom Soup](https://imagesvc.meredithcorp.io/v3/mm/image?url=https:%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7240910.jpg)
 
 <!---
